@@ -11,4 +11,4 @@ It's available both 32 and 64 variants. <br>
 esper licensed under CC0 aka public domain, so feel free to use it. <br>
 
 # Credits
-The code for esper is not written by me, instead It's written by okkiii. This is just an archive of code.
+The code for esper is not written by me, instead It's written by some unknown person on internet. This is just an archive of code.
